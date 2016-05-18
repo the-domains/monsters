@@ -1,0 +1,14 @@
+layout_spectrum: 0.7302711245138198
+typography_spectrum: 0.9774083700031042
+color:
+  brandStrength: 0.7541533759795129
+  lightness: 0.6004358429927379
+  saturation: 0.020768440794199705
+  rhythmicContrast: 0.598028922220692
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Monsters
