@@ -1,14 +1,25 @@
-layout_spectrum: 0.7302711245138198
-typography_spectrum: 0.9774083700031042
+typography_spectrum: 0.2871899328556023
 color:
-  brandStrength: 0.7541533759795129
-  lightness: 0.6004358429927379
-  saturation: 0.020768440794199705
-  rhythmicContrast: 0.598028922220692
+  brandStrength: 0.1104517174404262
+  lightness: 0.3426448412595483
+  saturation: 0.2767961877742137
+  rhythmicContrast: 0.8927386678295155
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-name: Monsters
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+github: true
+layout_spectrum: 0.1273010527279855
+name: Bedtime for Big Monsters
+title: Bedtime for Big Monsters
+content: []
+description: Lullabies of social change
+purpose:
+  - type: contact
+    url: 'mailto:da.webs@gmail.com'
+    label: Share your monster
+  - type: internal
+    label: 'Rest your feet '
+    item: 7e809649-de03-4770-8b43-a39fb6a6b103
