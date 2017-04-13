@@ -1,13 +1,13 @@
 ---
 title: ''
-datePublished: '2017-04-13T03:15:41.082Z'
-dateModified: '2017-04-13T03:15:40.105Z'
+datePublished: '2017-04-13T03:15:55.143Z'
+dateModified: '2017-04-13T03:15:54.243Z'
 publisher: {}
 author: []
 inFeed: true
 description: >-
   With so much to be up-in-arms about, this poem is about the courage of
-  choosing to enjoy each moment we receive.
+  choosing to enjoy each moment received.
 via: {}
 sourcePath: _posts/2016-12-28-a-brief-for-the-defense-by-jack-gilbert.md
 starred: false
@@ -16,7 +16,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-With so much to be up-in-arms about, this poem is about the courage of choosing to enjoy each moment we receive.
+With so much to be up-in-arms about, this poem is about the courage of choosing to enjoy each moment received.
 
 > We must risk delight
 
