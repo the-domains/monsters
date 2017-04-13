@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-04-13T03:15:55.143Z'
-dateModified: '2017-04-13T03:15:54.243Z'
+datePublished: '2017-04-13T03:16:03.375Z'
+dateModified: '2017-04-13T03:16:02.870Z'
 publisher: {}
 author: []
 inFeed: true
@@ -20,4 +20,4 @@ With so much to be up-in-arms about, this poem is about the courage of choosing 
 
 > We must risk delight
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0b190e-b8ce-402f-99f6-1e19f22bef54.jpg" /><h1>A Brief for the Defense, by Jack Gilbert</h1><p>"We must risk delight" he writes. With so much to be up-in-arms about, this poem is about the courage of choosing to enjoy each moment we receive.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0b190e-b8ce-402f-99f6-1e19f22bef54.jpg" /><h1>A Brief for the Defense, by Jack Gilbert</h1><p>"We must risk delight" he writes. With so much to be up-in-arms about, this poem is about the courage of choosing to enjoy each moment received.</p></article>
