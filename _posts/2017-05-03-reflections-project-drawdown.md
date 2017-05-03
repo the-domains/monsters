@@ -9,8 +9,8 @@ description: >-
   CO2, net cost, and net savings. Drawdown is the point in time when emissions
   from human activities turn around and begin to decrease, and it happens every
   year.  
-dateModified: '2017-05-03T23:33:15.359Z'
-datePublished: '2017-05-03T23:33:15.885Z'
+dateModified: '2017-05-03T23:38:53.453Z'
+datePublished: '2017-05-03T23:38:54.037Z'
 title: Project Drawdown
 author: []
 publisher: {}
@@ -38,4 +38,7 @@ Humanity's challenge is right here in front of us. The race is on to reach Drawd
 
 You can [see more visualizations from JPL here][0].
 
+You can [order a copy of Drawdown from Pegasus Books here][1].
+
 [0]: https://oco.jpl.nasa.gov/galleries/Videos/
+[1]: http://www.pegasusbookstore.com/book/9780143130444
