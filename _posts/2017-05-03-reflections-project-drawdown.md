@@ -9,8 +9,8 @@ description: >-
   with its reduction in CO2, the net cost, and the net savings. Drawdown is the
   point in time when emissions from human activities turn around and begin to
   decrease, and it happens every year.  
-dateModified: '2017-05-03T23:45:51.964Z'
-datePublished: '2017-05-03T23:45:52.491Z'
+dateModified: '2017-05-03T23:47:13.708Z'
+datePublished: '2017-05-03T23:47:14.455Z'
 title: Project Drawdown
 author: []
 publisher: {}
@@ -29,6 +29,8 @@ _type: MediaObject
 Last week I attended the book launch of Paul Hawken's Drawdown project. I had been following the progress for about two years after attending a GreenBiz sustainability conference where I met the former executive director Amanda Ravenhill. The project is a plan to reverse global warming and the book ranks the top 100 activities we can all engage in. Each activity is listed along with its reduction in CO2, the net cost, and the net savings. Drawdown is the point in time when emissions from human activities turn around and begin to decrease, and it happens every year. 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljksOwiAUAK9CWLgsNFoX2ld3XsAT8HkUEijNA4Le3kaXs5mZOThSCVkPtnrg01Vy5jGsvgI_jxNnhQxwX-tebkL03odPbrVpHExOApNGK97ja01PJUleHoQR5Eml_V587mFzGQ7jr6EzWSTgB6sYc3ctxmIIcVtm8d9YvnDbMOg" height="315" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e7c8b3-3ca4-4c0c-b722-1f535a7eb607.jpg)
 
 > Drawdown is possible, because it happens every year.
 
