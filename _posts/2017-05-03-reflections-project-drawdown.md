@@ -9,8 +9,8 @@ description: >-
   CO2, net cost, and net savings. Drawdown is the point in time when emissions
   from human activities turn around and begin to decrease, and it happens every
   year.  
-dateModified: '2017-05-03T23:39:29.117Z'
-datePublished: '2017-05-03T23:39:29.674Z'
+dateModified: '2017-05-03T23:40:31.854Z'
+datePublished: '2017-05-03T23:40:32.388Z'
 title: Project Drawdown
 author: []
 publisher: {}
@@ -34,11 +34,12 @@ Last week I attended the book launch of Paul Hawken's Drawdown project. I had be
 
 There was a buzz in the room as the room collectively witnessed the drawdown captured by NASA's Jet Propulsion Laboratory's satellite visualization. You'll notice that as the year progresses through March, levels of CO2 emissions reach an abnormally high levels along with activity that picks up in the northern hemisphere. By August, emissions are drawn down, as a collective breath. The accelerated growth of vegetation pulls CO2 from the atmosphere and transforms it into branches and leaves, roots and shoots.
 
-Humanity's challenge is right here in front of us. The race is on to reach Drawdown, and when we get there, we all win. 
+Humanity's challenge is right here in front of us. The race is on to reach Drawdown, and when we get there, we all win.
 
 You can [see more visualizations from JPL here][0].
 
 You can [order a copy of Drawdown from Pegasus Books here][1].
+[Order Drawdown Here][1]
 
 [0]: https://oco.jpl.nasa.gov/galleries/Videos/
 [1]: http://www.pegasusbookstore.com/book/9780143130444
