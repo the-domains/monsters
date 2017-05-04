@@ -9,8 +9,8 @@ description: >-
   with its reduction in CO2, the net cost, and the net savings. Drawdown is the
   point in time when emissions from human activities turn around and begin to
   decrease, and it happens every year.
-dateModified: '2017-05-03T23:52:57.128Z'
-datePublished: '2017-05-03T23:52:58.000Z'
+dateModified: '2017-05-04T00:00:36.731Z'
+datePublished: '2017-05-04T00:00:37.637Z'
 title: Project Drawdown
 author: []
 publisher: {}
@@ -34,13 +34,9 @@ Last week I attended the book launch of Paul Hawken's Drawdown project. I had be
 
 There was a buzz in the room as the room collectively witnessed the drawdown captured by NASA's Jet Propulsion Laboratory's satellite visualization. You'll notice that as the year progresses through March, levels of CO2 emissions reach an abnormally high levels to match economic activity picking up in the northern hemisphere. By July, emissions in the northern hemisphere are drawn down, like a collective breath. The accelerated vegetation growth pulls CO2 from the atmosphere and transforms it into branches and leaves, roots and shoots. The ocean too absorb much of the CO2\. This isn't to say that we can just let nature do its thing, since we're emitting more than the natural system can handle.
 
-Humanity's challenge is here in front of us. The race is on to reach Drawdown, and when we get there, we all win.
+Humanity's challenge is right here in front of us. The race is on to reach Drawdown, and when we get there, we all win.
+[Order Drawdown Here][0]
+[See more JPL visualizations][1]
 
-You can [see more visualizations from JPL here][0].
-
-You can [order a copy of Drawdown from Pegasus Books here][1].
-[Order Drawdown Here][1]
-[See more JPL visualizations][0]
-
-[0]: https://oco.jpl.nasa.gov/galleries/Videos/
-[1]: http://www.pegasusbookstore.com/book/9780143130444
+[0]: http://www.pegasusbookstore.com/book/9780143130444
+[1]: https://oco.jpl.nasa.gov/galleries/Videos/
