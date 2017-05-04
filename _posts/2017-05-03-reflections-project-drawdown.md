@@ -9,8 +9,8 @@ description: >-
   with its reduction in CO2, the net cost, and the net savings. Drawdown is the
   point in time when emissions from human activities turn around and begin to
   decrease, and it happens every year.
-dateModified: '2017-05-04T00:01:11.365Z'
-datePublished: '2017-05-04T00:01:11.740Z'
+dateModified: '2017-05-04T00:01:28.068Z'
+datePublished: '2017-05-04T00:01:28.658Z'
 title: Project Drawdown
 author: []
 publisher: {}
