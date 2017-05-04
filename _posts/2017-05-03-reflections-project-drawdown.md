@@ -9,8 +9,8 @@ description: >-
   with its reduction in CO2, the net cost, and the net savings. Drawdown is the
   point in time when emissions from human activities turn around and begin to
   decrease, and it happens every year.
-dateModified: '2017-05-04T00:00:36.731Z'
-datePublished: '2017-05-04T00:00:37.637Z'
+dateModified: '2017-05-04T00:01:06.506Z'
+datePublished: '2017-05-04T00:01:07.064Z'
 title: Project Drawdown
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Project Drawdown
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d724e8eedb74510df696691d88bf5c76/croprotate.jpg?cropheight=1800&cropwidth=1097&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F22e7c8b3-3ca4-4c0c-b722-1f535a7eb607.jpg&x=57&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/46e09d215ff517cf5a7d95db1bb9cde901919e11.jpg)
 
 Last week I attended the book launch of Paul Hawken's Drawdown project. I had been following the progress for about two years after attending a GreenBiz sustainability conference where I met the former executive director Amanda Ravenhill. The project is a plan to reverse global warming and the book ranks the top 100 activities we can all engage in. Each activity is listed along with its reduction in CO2, the net cost, and the net savings. Drawdown is the point in time when emissions from human activities turn around and begin to decrease, and it happens every year.
 
@@ -32,7 +32,7 @@ Last week I attended the book launch of Paul Hawken's Drawdown project. I had be
 
 > Drawdown is possible, because it happens every year.
 
-There was a buzz in the room as the room collectively witnessed the drawdown captured by NASA's Jet Propulsion Laboratory's satellite visualization. You'll notice that as the year progresses through March, levels of CO2 emissions reach an abnormally high levels to match economic activity picking up in the northern hemisphere. By July, emissions in the northern hemisphere are drawn down, like a collective breath. The accelerated vegetation growth pulls CO2 from the atmosphere and transforms it into branches and leaves, roots and shoots. The ocean too absorb much of the CO2\. This isn't to say that we can just let nature do its thing, since we're emitting more than the natural system can handle.
+There was a buzz in the room as the room collectively witnessed the drawdown captured by NASA's Jet Propulsion Laboratory's satellite visualization. You'll notice that as the year progresses through March, levels of CO2 emissions reach an abnormally high levels to match economic activity picking up in the northern hemisphere. By July, emissions in the northern hemisphere are drawn down, like a collective breath. The accelerated vegetation growth pulls CO2 from the atmosphere and transforms it into branches and leaves, roots and shoots. The ocean too, absorbs much of the CO2\. However, this isn't to say that we can just let nature do its thing, since we're emitting more than the natural system can absorb.
 
 Humanity's challenge is right here in front of us. The race is on to reach Drawdown, and when we get there, we all win.
 [Order Drawdown Here][0]
