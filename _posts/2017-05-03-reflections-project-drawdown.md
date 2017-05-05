@@ -9,8 +9,8 @@ description: >-
   with its reduction in CO2, the net cost, and the net savings. Drawdown is the
   point in time when emissions from human activities turn around and begin to
   decrease, and it happens every year.
-dateModified: '2017-05-04T00:01:28.068Z'
-datePublished: '2017-05-04T00:01:28.658Z'
+dateModified: '2017-05-05T20:51:20.381Z'
+datePublished: '2017-05-05T20:51:22.929Z'
 title: Project Drawdown
 author: []
 publisher: {}
@@ -30,9 +30,11 @@ Last week I attended the book launch of Paul Hawken's Drawdown project. I had be
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljksOwiAUAK9CWLgsNFoX2ld3XsAT8HkUEijNA4Le3kaXs5mZOThSCVkPtnrg01Vy5jGsvgI_jxNnhQxwX-tebkL03odPbrVpHExOApNGK97ja01PJUleHoQR5Eml_V587mFzGQ7jr6EzWSTgB6sYc3ctxmIIcVtm8d9YvnDbMOg" height="315" style=""></iframe>
 
+There was a buzz in the room as the room collectively witnessed the drawdown captured by NASA's Jet Propulsion Laboratory's satellite visualization. 
+> 
 > Drawdown is possible, because it happens every year.
 
-There was a buzz in the room as the room collectively witnessed the drawdown captured by NASA's Jet Propulsion Laboratory's satellite visualization. You'll notice that as the year progresses through March, levels of CO2 emissions reach an abnormally high levels to match economic activity picking up in the northern hemisphere. By July, emissions in the northern hemisphere are drawn down, like a collective breath. The accelerated vegetation growth pulls CO2 from the atmosphere and transforms it into branches and leaves, roots and shoots. The ocean too, absorbs much of the CO2\. However, this isn't to say that we can just let nature do its thing, since we're emitting more than the natural system can completely absorb.
+You'll notice that as the year progresses through March, levels of CO2 emissions reach an abnormally high levels to match economic activity picking up in the northern hemisphere. By July, emissions in the northern hemisphere are drawn down, like a collective breath. The accelerated vegetation growth pulls CO2 from the atmosphere and transforms it into branches and leaves, roots and shoots. The ocean too, absorbs much of the CO2\. However, this isn't to say that we can just let nature do its thing, since we're emitting more than the natural system can completely absorb.
 
 Humanity's challenge is right here in front of us. The race is on to reach Drawdown, and when we get there, we all win.
 [Order Drawdown Here][0]
