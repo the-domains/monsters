@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Sing your own Song
-dateModified: '2017-05-05T20:51:46.877Z'
-datePublished: '2017-05-05T20:51:47.399Z'
-title: ''
+description: '"Sing your own song, said the river,"Sing your own song.'
+dateModified: '2017-05-05T20:51:54.039Z'
+datePublished: '2017-05-05T20:51:54.911Z'
+title: Sing your own Song
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: sing-your-own-song-said-the-riversing-your-own-song/index.html
 _type: Article
 
 ---
-Sing your own Song
+# Sing your own Song
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20d41b5-b8e9-42af-9316-e29a4c8bff82.jpg)
 
 > Sing your own song, said the river, Sing your own song.
