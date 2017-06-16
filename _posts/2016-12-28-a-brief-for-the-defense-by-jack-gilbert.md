@@ -1,7 +1,7 @@
 ---
 title: Risk Delight
-datePublished: '2017-06-16T01:22:16.288Z'
-dateModified: '2017-06-16T01:22:16.013Z'
+datePublished: '2017-06-16T02:12:54.375Z'
+dateModified: '2017-06-16T02:12:53.755Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,16 +16,17 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24dfc0d-b7e8-4547-af24-1c0a8c38e86e.jpg)
+
 # Risk Delight
 
 ## With so much to be up-in-arms about, courage is choosing to enjoy each moment received.
 
 "We Must Risk Delight," by Jack Gilbert
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24dfc0d-b7e8-4547-af24-1c0a8c38e86e.jpg)
 
 ---
 
-# A Brief for the Defense
+## A Brief for the Defense
 
 Sorrow everywhere. Slaughter everywhere. If babies  
 are not starving someplace, they are starving  
