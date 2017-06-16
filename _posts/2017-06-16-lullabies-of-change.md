@@ -5,18 +5,20 @@ description: >-
   Silicon Valley. My responsibilities included maintaining a collection of
   microcode for digital signal processors, a very specialized kind of work on
   the internals of digital cameras and DVD players, not unlike a heart surgeon. 
-dateModified: '2017-06-16T02:08:32.390Z'
-datePublished: '2017-06-16T02:08:33.113Z'
+dateModified: '2017-06-16T02:09:43.049Z'
+datePublished: '2017-06-16T02:09:43.590Z'
 title: Lullabies of Change
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-16-lullabies-of-change.md
 starred: false
 datePublishedOriginal: '2017-06-16T02:08:33.113Z'
-sourcePath: _posts/2017-06-16-lullabies-of-change.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db2d67b0-e990-49ac-b9a0-db7dbb870338.jpg)
+
 # Lullabies of Change
 
 ## The pendulum is always in motion
