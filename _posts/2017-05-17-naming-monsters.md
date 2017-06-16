@@ -1,7 +1,7 @@
 ---
 title: Kyōkotsu
-datePublished: '2017-06-16T01:18:33.126Z'
-dateModified: '2017-06-16T01:18:32.640Z'
+datePublished: '2017-06-16T01:21:27.094Z'
+dateModified: '2017-06-16T01:21:26.528Z'
 publisher: {}
 author: []
 inFeed: true
@@ -28,7 +28,8 @@ A shade of helpless unease, fury and resistance.
 Drop low and hunker, a pin prick of the moment,   
 Low the still morning stands of saw grass, golden.  
 Breath dark ripples in pools gathering beneath the chest.   
-Welcome the contribution of ghosts and locate the ease of uncertainty.   
+Welcome the contribution of ghosts and locate the ease of uncertainty.
+
 Recognize what is undone through reaction and resistance  
 A quality unveiled by the call to arms and defiance.   
 Name the shade, beckon near, befriend the rising spirit.
