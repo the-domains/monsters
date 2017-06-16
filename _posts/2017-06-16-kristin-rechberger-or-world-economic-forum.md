@@ -20,9 +20,9 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.weforum.org/people/kristin-rechberger/'
 title: Kristin Rechberger | World Economic Forum
-datePublished: '2017-06-16T20:00:53.302Z'
-dateModified: '2017-06-16T20:00:15.921Z'
-datePublishedOriginal: '2017-06-16T20:00:53.302Z'
+datePublished: '2017-06-16T20:00:56.782Z'
+dateModified: '2017-06-16T20:00:26.870Z'
+datePublishedOriginal: '2017-06-16T20:00:56.782Z'
 via: {}
 inFeed: true
 starred: false
