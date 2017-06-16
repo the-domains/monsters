@@ -3,19 +3,18 @@ inFeed: true
 description: >-
   "To be truly radical is to make hope possible, rather than despair
   convincing." – Raymond Williams
-dateModified: '2017-06-14T19:59:17.248Z'
-datePublished: '2017-06-14T19:59:17.703Z'
+dateModified: '2017-06-16T01:12:21.584Z'
+datePublished: '2017-06-16T01:12:22.150Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-01-16-to-be-truly-radical-is-to-make-hope-possible-rather-than-d.md
-hasPage: true
-datePublishedOriginal: '2017-06-14T19:59:17.703Z'
+hasPage: false
 starred: false
-url: to-be-truly-radical-is-to-make-hope-possible-rather-than-d/index.html
-_type: Article
+datePublishedOriginal: '2017-06-14T19:59:17.703Z'
+_type: Blurb
 
 ---
 _"To be truly radical is to make hope possible, rather than despair convincing." -- Raymond Williams_
