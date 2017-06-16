@@ -1,29 +1,29 @@
-name: Bedtime for Big Monsters
-layout_spectrum: 0.1273010527279855
-typography_spectrum: 0.2871899328556023
+layout_spectrum: 0.29250910969432625
+typography_spectrum: 0.27187505969298215
 color:
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  brandStrength: 0.1104517174404262
-  lightness: 0.3426448412595483
-  saturation: 0.2767961877742137
-  rhythmicContrast: 0.8927386678295155
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.5248931210467795
+  lightness: 0.5871031152579638
+  saturation: 1
+  rhythmicContrast: 0.4720346223943784
+name: Bedtime for Big Monsters
 purpose:
-  - type: contact
-    label: Report a Monster
-    url: 'mailto:eek@bedtimeforbigmonsters.com'
-  - type: internal
-    label: 'Repose your soul '
-    item: 7e809649-de03-4770-8b43-a39fb6a6b103
+  - type: external
+    label: Name your Monster
+    url: 'https://goo.gl/forms/rfy0TEsDI0P75Uai2'
 title: Bedtime for Big Monsters
-description: Lullabies of social change
+description: 'Lullabies of change, woven new narratives.'
 navigation:
   - name: Sing you own Song
     id: 7e809649-de03-4770-8b43-a39fb6a6b103
     type: content
 content: []
 github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/501a514c-feb2-4d0d-ae19-6dbacca69ee8.png
+url: 'http://bedtimeforbigmonsters.com/'
