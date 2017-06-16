@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Excerpt from “What We Think About When We Try Not to Think About Global
   Warming”, by Per Espen Stoknes.
-dateModified: '2017-06-16T02:10:45.513Z'
-datePublished: '2017-06-16T02:10:45.988Z'
+dateModified: '2017-06-16T02:10:56.240Z'
+datePublished: '2017-06-16T02:10:56.899Z'
 title: A Matter of Style
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Article
 ## Per Espen Stoknes' reflections and conclusions about global warming are grounded in culture and the arts.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ddaa08b-d227-4a0c-9544-2a470e14e408.jpg)
 
-Excerpt from "What We Think About When We Try Not to Think About Global Warming", by Per Espen Stoknes.
+_Excerpt from "What We Think About When We Try Not to Think About Global Warming", by Per Espen Stoknes._
 
 At a seminar, poet Gary Snyder was once asked, "Why bother to save the planet?" He replied with a grin: "Because it's a matter of character and a matter of style!" 
 
