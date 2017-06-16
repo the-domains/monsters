@@ -52,15 +52,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/mjp-shaw/small-gods'
 title: Wild Land Dreaming
-datePublished: '2017-06-16T02:11:59.447Z'
-dateModified: '2017-06-16T02:11:58.899Z'
+datePublished: '2017-06-16T02:12:05.159Z'
+dateModified: '2017-06-16T02:12:04.509Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-26-small-gods-by-mjp-shaw.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-26T04:15:16.077Z'
+url: wild-land-dreaming/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
@@ -70,5 +71,7 @@ _context: 'http://schema.org'
 # Wild Land Dreaming
 
 ## The old tales, the fairy, the folk tales, the myth, contain much of the paradox we face in these storm driven times. -- Dr. Martin Shaw
+
+---
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkEFOwzAQRa8SWSrL2qFQJKhbcZJosKe1hZOxZsaNuD0hXVDYPj09ff1DPjOM2M05avKmd25juoT5ktSbnXOmk8BUSp4u3kxkulX_II7INyAcvEmqVV6tnbdCbYqhUIvbQKOtBb6Q7alx8au02b1bCzX_F5UhfIp9fHpx_XO_3z_AWN-gKQ0_CX-GIriylCMOjAUU4x2WRPOwhEacVLxyu8NNlrF_EWMlWcTfwDVLg7Jq5niwt1-O35L1Z5E" height="300" style=""></iframe>
