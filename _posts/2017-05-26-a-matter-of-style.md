@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Excerpt from “What We Think About When We Try Not to Think About Global
   Warming”, by Per Espen Stoknes.
-dateModified: '2017-06-17T12:16:25.147Z'
-datePublished: '2017-06-17T12:16:25.589Z'
+dateModified: '2017-06-17T12:16:40.706Z'
+datePublished: '2017-06-17T12:16:41.299Z'
 title: A Matter of Style and Being Who We Are
 author: []
 publisher: {}
@@ -17,10 +17,11 @@ url: a-matter-of-style/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ddaa08b-d227-4a0c-9544-2a470e14e408.jpg)
+
 # A Matter of Style and Being Who We Are
 
 ## Per Espen Stoknes' reflections and conclusions about global warming are grounded in culture and the arts.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ddaa08b-d227-4a0c-9544-2a470e14e408.jpg)
 
 _Excerpt from "What We Think About When We Try Not to Think About Global Warming", by Per Espen Stoknes._
 
