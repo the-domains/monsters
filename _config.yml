@@ -18,10 +18,6 @@ purpose:
     url: 'https://goo.gl/forms/rfy0TEsDI0P75Uai2'
 title: Bedtime for Big Monsters
 description: 'Lullabies of change, woven new narratives.'
-navigation:
-  - name: Sing you own Song
-    id: 7e809649-de03-4770-8b43-a39fb6a6b103
-    type: content
 content: []
 github: true
 favicon: >-
