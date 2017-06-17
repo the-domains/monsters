@@ -1,4 +1,3 @@
-layout_spectrum: 0.29250910969432625
 typography_spectrum: 0.27187505969298215
 color:
   brandColors:
@@ -11,15 +10,20 @@ color:
   lightness: 0.5871031152579638
   saturation: 1
   rhythmicContrast: 0.4720346223943784
+github: true
+layout_spectrum: 0.29250910969432625
 name: Bedtime for Big Monsters
+url: 'http://bedtimeforbigmonsters.com/'
+navigation:
+  - name: Business Models
+    id: 40b4f80c-7a72-47f6-947b-ee7470699a2a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/501a514c-feb2-4d0d-ae19-6dbacca69ee8.png
+title: Bedtime for Big Monsters
+content: []
+description: 'Lullabies of change, woven new narratives.'
 purpose:
   - type: external
     label: Name your Monster
     url: 'https://goo.gl/forms/rfy0TEsDI0P75Uai2'
-title: Bedtime for Big Monsters
-description: 'Lullabies of change, woven new narratives.'
-content: []
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/501a514c-feb2-4d0d-ae19-6dbacca69ee8.png
-url: 'http://bedtimeforbigmonsters.com/'
