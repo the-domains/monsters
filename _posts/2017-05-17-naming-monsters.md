@@ -1,7 +1,7 @@
 ---
 title: Kyōkotsu
-datePublished: '2017-06-17T12:12:26.123Z'
-dateModified: '2017-06-17T12:12:25.700Z'
+datePublished: '2017-06-17T12:12:33.695Z'
+dateModified: '2017-06-17T12:12:33.554Z'
 publisher: {}
 author: []
 inFeed: true
