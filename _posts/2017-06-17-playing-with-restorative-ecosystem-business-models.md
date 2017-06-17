@@ -8,16 +8,18 @@ description: >-
   plans emerge. The steps are clear for you to raise capital, build a team,
   scale your process, and accelerate the change in the world you are capable of
   achieving.
-dateModified: '2017-06-17T12:13:36.328Z'
-datePublished: '2017-06-17T12:13:36.973Z'
+dateModified: '2017-06-17T12:14:48.027Z'
+datePublished: '2017-06-17T12:14:48.435Z'
 title: Creating Restorative Ecosystem Business Models
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-17-playing-with-restorative-ecosystem-business-models.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-17T10:04:11.235Z'
-_type: Blurb
+url: creating-restorative-ecosystem-business-models/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4c482b-dac0-4c08-b58f-a07b1dc5c291.jpg)
