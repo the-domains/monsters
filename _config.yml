@@ -12,12 +12,15 @@ color:
   rhythmicContrast: 0.4720346223943784
 github: true
 layout_spectrum: 0.29250910969432625
-name: Bedtime for Big Monsters
+name: Monsters
 url: 'http://bedtimeforbigmonsters.com/'
 navigation:
   - name: Business Models
     id: 40b4f80c-7a72-47f6-947b-ee7470699a2a
     type: content
+  - name: Blog
+    url: 'http://blog.bedtimeforbigmonsters.com'
+    type: external
 favicon: null
 title: Bedtime for Big Monsters
 content: []
