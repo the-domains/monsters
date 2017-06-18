@@ -18,8 +18,7 @@ navigation:
   - name: Business Models
     id: 40b4f80c-7a72-47f6-947b-ee7470699a2a
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/501a514c-feb2-4d0d-ae19-6dbacca69ee8.png
+favicon: null
 title: Bedtime for Big Monsters
 content: []
 description: 'Lullabies of change, woven new narratives.'
