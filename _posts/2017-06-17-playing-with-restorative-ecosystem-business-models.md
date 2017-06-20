@@ -8,9 +8,9 @@ description: >-
   plans emerge. The steps are clear for you to raise capital, build a team,
   scale your process, and accelerate the change in the world you are capable of
   achieving.
-dateModified: '2017-06-17T12:14:48.027Z'
-datePublished: '2017-06-17T12:14:48.435Z'
-title: Creating Restorative Ecosystem Business Models
+dateModified: '2017-06-20T03:41:49.107Z'
+datePublished: '2017-06-20T03:41:49.755Z'
+title: Prototyping Restorative Ecosystem Business Models
 author: []
 publisher: {}
 via: {}
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4c482b-dac0-4c08-b58f-a07b1dc5c291.jpg)
 
-# Creating Restorative Ecosystem Business Models
+# Prototyping Restorative Ecosystem Business Models
 
 What if iterating on your business model wasn't tough and hard but more closely related to play? You and your team are working together, with wide smiles and good humor, making decisions that feel good and removing everything that isn't a contribution. With alignment and confidence, strategy unfolds and plans emerge. The steps are clear for you to raise capital, build a team, scale your process, and accelerate the change in the world you are capable of achieving.
 
