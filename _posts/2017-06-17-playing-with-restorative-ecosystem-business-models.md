@@ -8,8 +8,8 @@ description: >-
   plans emerge. The steps are clear for you to raise capital, build a team,
   scale your process, and accelerate the change in the world you are capable of
   achieving.
-dateModified: '2017-06-20T03:41:49.107Z'
-datePublished: '2017-06-20T03:41:49.755Z'
+dateModified: '2017-06-20T03:43:04.421Z'
+datePublished: '2017-06-20T03:43:05.115Z'
 title: Prototyping Restorative Ecosystem Business Models
 author: []
 publisher: {}
@@ -30,7 +30,6 @@ What if iterating on your business model wasn't tough and hard but more closely 
 
 So what is stopping you? Complexity, fear, overwhelm, uncertainty, doubt. To have courage is to follow your heart amidst the din. Our ecosystems have elected us to become stewards of life and community, water and forest---to redefine the fundamental human-economic relationships we have with nature today.
 
-I'm here to help, to meet your team, and learn about the challenges you face. Facilitation & Collaboration. Ideation & Iteration. Process & Tools.
-[Say Hello][0]
+I'm here to help and make the impossible possible, to meet your team, and unpack the challenges you face. Facilitation & Collaboration. Ideation & Iteration. Process & Tools. [Say Hello][0]
 
 [0]: https://calendly.com/monsters
