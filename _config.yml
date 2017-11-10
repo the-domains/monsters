@@ -1,17 +1,19 @@
-typography_spectrum: 0.27187505969298215
+layout_spectrum: 0.7929579435295361
+typography_spectrum: 0.2791909662990988
 color:
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.5248931210467795
-  lightness: 0.5871031152579638
-  saturation: 1
-  rhythmicContrast: 0.4720346223943784
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.14103365292652778
+  lightness: 0.0995459921492983
+  saturation: 0.49196839678377874
+  rhythmicContrast: 0.6280131566437828
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.29250910969432625
 name: Monsters
 url: 'http://www.bedtimeforbigmonsters.com/'
 navigation:
