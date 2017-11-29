@@ -1,4 +1,3 @@
-layout_spectrum: 0.7929579435295361
 typography_spectrum: 0.2791909662990988
 color:
   brandColors:
@@ -11,9 +10,8 @@ color:
   lightness: 0.0995459921492983
   saturation: 0.49196839678377874
   rhythmicContrast: 0.6280131566437828
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.7929579435295361
 name: Monsters
 url: 'http://www.bedtimeforbigmonsters.com/'
 navigation:
@@ -23,9 +21,14 @@ navigation:
   - name: Blog
     url: 'http://blog.bedtimeforbigmonsters.com'
     type: external
+  - name: Landscapes
+    id: dcb4d4c5-c0cf-44dd-bfdf-56efefe0d446
+    type: content
 favicon: null
 title: Bedtime for Big Monsters
 content: []
+coverPrefs:
+  filter: false
 description: 'Lullabies of change, woven new narratives.'
 purpose:
   - type: external
