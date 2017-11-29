@@ -7,8 +7,8 @@ description: >-
   golden warmth, strategy unfolds and plans emerge. You sleep well and raise
   capital that has never been easier, assumptions fall like dominos, investment
   gleams, process scales, change and impact in the world accelerates.
-dateModified: '2017-11-29T07:49:14.388Z'
-datePublished: '2017-11-29T07:49:14.977Z'
+dateModified: '2017-11-29T08:49:24.015Z'
+datePublished: '2017-11-29T08:49:24.678Z'
 title: Prototyping for Regenerative Ecosystem Business Models
 author: []
 publisher: {}
