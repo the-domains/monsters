@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Excerpt from “What We Think About When We Try Not to Think About Global
   Warming”, by Per Espen Stoknes.
-dateModified: '2017-06-17T12:16:40.706Z'
-datePublished: '2017-06-17T12:16:41.299Z'
-title: A Matter of Style and Being Who We Are
+dateModified: '2017-12-05T19:03:20.742Z'
+datePublished: '2017-12-05T19:03:22.452Z'
+title: A Matter of Style
 author: []
 publisher: {}
 via: {}
@@ -19,9 +19,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ddaa08b-d227-4a0c-9544-2a470e14e408.jpg)
 
-# A Matter of Style and Being Who We Are
+# A Matter of Style
 
-## Per Espen Stoknes' reflections and conclusions about global warming are grounded in culture and the arts.
+## Reflections and conclusions about global warming, grounded in culture and the arts.
 
 _Excerpt from "What We Think About When We Try Not to Think About Global Warming", by Per Espen Stoknes._
 
@@ -29,6 +29,6 @@ At a seminar, poet Gary Snyder was once asked, "Why bother to save the planet?" 
 
 ---
 
-What I really like about his answer is that it does not attempt to found our actions on some plausibility calculation of success or failure, or on a dualistic ethics---the good fight against evil. Rather Snyder points to our calling and to aesthetics, both realms of the soul, of being who we are. This grounds our long-term actions in something more substantial than the expectations of a quick and successful outcome of our efforts. For sure, early wins and successes are welcome and wanted. We just can't make our long-term efforts dependent on them.
+"What I really like about his answer is that it does not attempt to found our actions on some plausibility calculation of success or failure, or on a dualistic ethics---the good fight against evil. Rather Snyder points to our calling and to aesthetics, both realms of the soul, of being who we are. This grounds our long-term actions in something more substantial than the expectations of a quick and successful outcome of our efforts. For sure, early wins and successes are welcome and wanted. We just can't make our long-term efforts dependent on them." --Per Espen Stoknes
 
 <article style=""><img src="http://www.chelseagreen.com/content/01/19901" /><h1>Read the book </h1><p>The more facts that pile up about global warming, the greater the resistance to them grows, making it harder to enact measures to reduce greenhouse gas emissions and prepare communities for the inevitable change ahead.</p></article>
