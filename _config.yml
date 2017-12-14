@@ -18,9 +18,6 @@ navigation:
   - name: Business Models
     id: 40b4f80c-7a72-47f6-947b-ee7470699a2a
     type: content
-  - name: Landscapes
-    id: dcb4d4c5-c0cf-44dd-bfdf-56efefe0d446
-    type: content
 favicon: null
 title: Bedtime for Big Monsters
 content: []
