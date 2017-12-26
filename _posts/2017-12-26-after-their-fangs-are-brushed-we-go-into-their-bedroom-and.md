@@ -8,14 +8,14 @@ description: >-
   hushed voice (this little monster went to the market, this little monster went
   to the beach…). The excitements of the day have unwound and I light a candle
   to read a fable by its soft warm glow. 
-dateModified: '2017-12-26T14:38:45.909Z'
-datePublished: '2017-12-26T14:38:46.933Z'
+dateModified: '2017-12-26T14:38:48.840Z'
+datePublished: '2017-12-26T14:38:50.382Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 starred: false
-datePublishedOriginal: '2017-12-26T14:38:46.933Z'
+datePublishedOriginal: '2017-12-26T14:38:46.927Z'
 sourcePath: >-
   _posts/2017-12-26-after-their-fangs-are-brushed-we-go-into-their-bedroom-and.md
 _type: Blurb
