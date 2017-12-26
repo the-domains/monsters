@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  You will not go faster in a rush. You will not go faster by command. You will
-  not go faster by jumping up and down. You will not go faster by spreading
-  yourself thin. You will not go faster by thinking hard or figuring it out.
-dateModified: '2017-12-26T14:33:37.954Z'
-datePublished: '2017-12-26T14:33:38.681Z'
+  You will not go faster in a rush.You will not go faster by command.You will
+  not go faster by jumping up and down.You will not go faster by spreading
+  yourself thin.You will not go faster by thinking hard or figuring it out.
+dateModified: '2017-12-26T14:34:09.348Z'
+datePublished: '2017-12-26T14:34:09.787Z'
 title: Going Faster
 author: []
 publisher: {}
@@ -27,4 +27,4 @@ You will not go faster by thinking hard or figuring it out.
 
 Stop to listen. Trust what's light and follow.  
 Take good care of yourself and those around you.  
-Speed takes flight through an embrace of the present.
+Spread your wings of flight and embrace the present.
