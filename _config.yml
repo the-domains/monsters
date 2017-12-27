@@ -28,5 +28,5 @@ description: >-
   planetary goodness. 
 purpose:
   - type: external
-    label: Say hello.
+    label: Schedule a short hello
     url: 'https://calendly.com/monsters'
