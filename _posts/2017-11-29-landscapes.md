@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Collection of Agent Based Modelling approaches to land.
-dateModified: '2017-12-28T05:38:25.857Z'
-datePublished: '2017-12-28T05:38:26.560Z'
+description: Collection of Agent Based Modelling approaches to land management.
+dateModified: '2017-12-28T05:38:39.700Z'
+datePublished: '2017-12-28T05:38:40.381Z'
 title: Landscapes
 author: []
 publisher:
@@ -21,7 +21,7 @@ _type: Article
 ---
 # Landscapes
 
-Collection of Agent Based Modelling approaches to land.
+Collection of Agent Based Modelling approaches to land management.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44b873ed3b7845606531a87525faf9efc3456fcd.png" /><h1>Agent-Based Modelling and Landscape Change</h1><p>MDPI is a publisher of peer-reviewed, open access journals since its establishment in 1996.</p></article>
 
