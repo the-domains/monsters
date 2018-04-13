@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Collection of Agent Based Modelling approaches to land management.
-dateModified: '2017-12-28T05:38:39.700Z'
-datePublished: '2017-12-28T05:38:40.381Z'
+dateModified: '2018-04-13T20:38:54.904Z'
+datePublished: '2018-04-13T20:38:55.690Z'
 title: Landscapes
 author: []
 publisher:
@@ -16,7 +16,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-14T09:55:54.035Z'
 url: landscapes/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Landscapes
