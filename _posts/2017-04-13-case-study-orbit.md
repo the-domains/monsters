@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Don’t just ship it. How to introduce major UX changes your new and existing
   customers will love.
-dateModified: '2018-04-17T06:11:51.037Z'
-datePublished: '2018-04-17T06:11:51.663Z'
-title: Design for Change
+dateModified: '2018-04-17T06:12:11.427Z'
+datePublished: '2018-04-17T06:12:12.068Z'
+title: Designing for Change
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ url: case-study-orbit/index.html
 _type: Article
 
 ---
-# Design for Change
+# Designing for Change
 
 ## Case Study: Orbit
 
