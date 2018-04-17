@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-17T06:04:28.142Z'
-datePublished: '2018-04-17T06:04:29.282Z'
+dateModified: '2018-04-17T06:06:33.132Z'
+datePublished: '2018-04-17T06:06:33.962Z'
 title: 'Case Study: Orbit'
 author: []
 publisher: {}
@@ -27,6 +27,9 @@ Imagine walking into your kitchen to make a cup of coffee to find that the drawe
 
 Snapchat is a social app. If you were redesigning the administrative interface responsible for managing public and private clouds that hospitals, governments, and entire data centers depend upon for mission critical applications, a company just might think or design a little more carefully. I'm sure the designers at Snapchat worked pretty hard to roll out their redesign. At VMware we accomplished a major redesign to wide applause. 
 
-At VMware R&D User Experience, I worked closely for several months with senior interaction designers, user researchers, and engineers to roll out a significant update to the navigation and object model of VMware's VSphere client. I'd love to tell you more about our user testing, incorporating feedback, co-creation workflows, and inter-disciplinary collaboration methods that reduced risk and won approval of new and existing customers .
+At VMware R&D User Experience, I worked closely for several months with senior interaction designers, user researchers, and engineers to roll out a significant update to the navigation and object model of VMware's VSphere client. We user tested, incorporated feedback, co-created, and collaborated in ways that reduced risk and won approval of new and existing customers.
+
+Have a similar experience or challenge you face today in your work today? I'd love to hear about it. [Say hello][1]
 
 [0]: https://techcrunch.com/2018/01/11/snapchat-redesign-uninstall/
+[1]: http://tiny.cc/hello-daniel
