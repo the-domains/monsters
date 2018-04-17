@@ -1,17 +1,19 @@
-typography_spectrum: 0.2791909662990988
+layout_spectrum: 0.6843865357511816
+typography_spectrum: 0.7177621673837783
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.14103365292652778
-  lightness: 0.0995459921492983
-  saturation: 0.49196839678377874
-  rhythmicContrast: 0.6280131566437828
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.9514761632958445
+  lightness: 0.1317879827058699
+  saturation: 0.7644174556860166
+  rhythmicContrast: 0.32269440297350876
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.7929579435295361
 name: Monsters
 url: 'https://www.bedtimeforbigmonsters.com/'
 navigation:
@@ -21,8 +23,6 @@ navigation:
 favicon: null
 title: I ♥ complexity
 content: []
-coverPrefs:
-  filter: false
 description: >-
   Weaving user centered design, agile engineering, and product development for
   planetary goodness. 
