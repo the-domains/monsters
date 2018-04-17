@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bedtime for Big Monsters]]></title>
-        <description><![CDATA[Bedtime for Big Monsters]]></description>
+        <title><![CDATA[I ♥ complexity]]></title>
+        <description><![CDATA[I ♥ complexity]]></description>
         <link>http://www.bedtimeforbigmonsters.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Apr 2018 21:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Apr 2018 05:44:25 GMT</lastBuildDate>
         <atom:link href="http://www.bedtimeforbigmonsters.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Apr 2018 21:49:11 GMT</pubDate>
+        <pubDate>Tue, 17 Apr 2018 05:44:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Case Study: Orbit]]></title>
+            <description><![CDATA[<h1>Case Study: Orbit</h1>,<h2>Don’t just ship it. How to introduce major UX changes your new and existing customers will love. </h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f95e390b-d8ca-4432-92ea-ea2fda0ea6f3.gif">]]></description>
+            <link>http://www.bedtimeforbigmonsters.com/case-study-orbit/index.html</link>
+            <guid isPermaLink="false">9cbd25af-1faf-4226-8669-016848e68ffd</guid>
+            <pubDate>Fri, 13 Apr 2018 20:39:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designing for Scale]]></title>
             <description><![CDATA[<h1>Designing for Scale</h1>,<h2>Case Study: Absolute Hubble</h2>,<p>There’s a rule of thumb I keep in mind when I approach a design problems.</p>,<blockquote>There&apos;s a different design solution for every order of magnitude.</blockquote>,<p>Think about your file system. When you have 1 to 10 files to manage, the pattern is large icons, 10 to 1000 files, large icons can still work, however a list is usually better. When you start getting to 1000 to 10,000 a list is okay, however, search starts to become more important. As numbers are upwards of a million or a billion, AI may be appropriate. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4b14a3-9fc6-49b1-8b90-2b76f260cca5.jpg">,<p>I learned this firsthand at VMware, R&amp;D User Experience, the company responsible for commercializing virtualization which is the foundation of cloud computing, and has led to a revolution in IT and business operations. Today, the infrastructure of modern clouds include many virtual object abstractions defined above the physical devices, such as CPUs, hard drives, and network devices. Each of these virtual devices provide compute, storage, and networking resources. Consider enterprise organizations such as hospitals and large businesses, governments—all customers of VMware—and the data centers that back them. </p>,<p>Just as the files you use have grown, the quantity of virtual objects to be managed has also grown. VMware some customers were managing upwards of 10,000 virtual objects. Absolute Hubble, as in the Hubble space telescope was a project that explored design patterns for managing such complexity. The intention was to help datacenter administrators quickly understand—and troubleshoot—the relationships between the virtual objects they manage. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/caca9843-cc94-4aa7-977e-74bc76505e0e.jpg" title="Absolute Hubble" alt="Absolute Hubble simplifies troubleshooting workflows by traversing and visualizing the relationships between virtual objects in a datacenter. This interface combines design patterns for managing scale including elastic lists, search, and consolidated nodes. Furthermore, this interface is focused upon monitoring unhealthy trends, which administrators are most concerned with provide the highest level of service to their business. ">,<p>I’m curious to hear about the design challenges you currently face. Reach out below and I’d be happy to schedule a time to chat and learn more.  </p>,<a href="mailto:da.swid" data-role="cta">Say hello</a>,<p>I <strong>♥ </strong>Complexity. </p>]]></description>
