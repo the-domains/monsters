@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Don’t just ship it. How to introduce major UX changes your new and existing
   customers will love.
-dateModified: '2018-04-17T06:11:32.360Z'
-datePublished: '2018-04-17T06:11:33.377Z'
+dateModified: '2018-04-17T06:11:51.037Z'
+datePublished: '2018-04-17T06:11:51.663Z'
 title: Design for Change
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ At VMware R&D User Experience, I worked closely for several months with senior i
 Have a similar experience or challenge you face today in your work today? I'd love to hear about it.
 [Say hello][1]
 
-I **♥ **Complexity
+I **♥ **complexity
 
 [0]: https://techcrunch.com/2018/01/11/snapchat-redesign-uninstall/
 [1]: http://tiny.cc/hello-daniel
