@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Migrating a 12GB database in flight because your product is too expensive run
   and too expensive to turn off. 
-dateModified: '2018-04-17T06:27:41.653Z'
-datePublished: '2018-04-17T06:27:42.717Z'
+dateModified: '2018-04-17T06:27:49.271Z'
+datePublished: '2018-04-17T06:27:49.965Z'
 title: Designing for Cost
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ Migrating a 12GB database in flight because your product is too expensive run an
 
 ---
 
-TBWritten
+2BWritten
 
 * Popular game 10k/month to run
 * Redis cluster many many GB
