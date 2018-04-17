@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-17T05:44:21.788Z'
-datePublished: '2018-04-17T05:44:22.504Z'
+dateModified: '2018-04-17T06:04:28.142Z'
+datePublished: '2018-04-17T06:04:29.282Z'
 title: 'Case Study: Orbit'
 author: []
 publisher: {}
@@ -21,12 +21,12 @@ _type: Article
 
 ---
 
-Imagine walking into your kitchen to make a cup of coffee to find that the drawers and cabinets had all been rearranged. With software the impact is perhaps greater because shipping a new version of your product can affect thousands and thousands of people who depend upon your product everyday.
+User experience and co-creation is an underutilized approach for both startups and established companies to manage the risk and change associated with major updates.
 
-The VSphere client is a complex web based administrative tool for managing public and private clouds. Clouds that hospitals, governments, and entire data centers depend upon for mission critical applications. To make a significant change required 
+Imagine walking into your kitchen to make a cup of coffee to find that the drawers and cabinets had all been rearranged. With software the impact is greater because shipping a new feature or update can affect thousands and thousands of people who depend upon your product everyday, its like rearranging the kitchen, or the highways for that matter, of an entire city, a sure way to turn users into haters, most recently check out [Snapchat's big redesign][0] with an 83% disapproval rating---ouch. The Amazon Fire is another debacle that skipped out on user research. 
 
-To keep up with the increased number of managed objects the VSphere client required a fundamental change to its user interface. 
+Snapchat is a social app. If you were redesigning the administrative interface responsible for managing public and private clouds that hospitals, governments, and entire data centers depend upon for mission critical applications, a company just might think or design a little more carefully. I'm sure the designers at Snapchat worked pretty hard to roll out their redesign. At VMware we accomplished a major redesign to wide applause. 
 
-administerAt VMware evolving the complex administrative environment of the VSphere clientDuring my time at VMware R&D Users Experience This analogy is fantastic when creating new products, but when changing an existing product, care must be taken not to disrupt the existing user base. I've crossed this threshold a number of times, however, the most robust and successful experience I've had was during my time at VMware, when I worked closely with the designer Peter Shepherd.
+At VMware R&D User Experience, I worked closely for several months with senior interaction designers, user researchers, and engineers to roll out a significant update to the navigation and object model of VMware's VSphere client. I'd love to tell you more about our user testing, incorporating feedback, co-creation workflows, and inter-disciplinary collaboration methods that reduced risk and won approval of new and existing customers .
 
-One of my go to frameworks to apply during product development that helps to user research is the Jobs to Be Done defines a product as something one hires to get a job done. I love this analogy because it inevitably sparks team curiosity and user research activities. The more one strives to understand the job a user is wants to achieve, the easier it is to build a product, through shared understanding, and subsequent acceleration of development and delivery.
+[0]: https://techcrunch.com/2018/01/11/snapchat-redesign-uninstall/
