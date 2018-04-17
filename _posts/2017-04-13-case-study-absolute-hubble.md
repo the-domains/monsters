@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Out with the old and in with the new. There’s a simple rule of thumb for
   designing solutions to problems.
-dateModified: '2018-04-17T06:12:00.717Z'
-datePublished: '2018-04-17T06:12:01.490Z'
+dateModified: '2018-04-17T06:13:59.330Z'
+datePublished: '2018-04-17T06:13:59.938Z'
 title: Designing for Scale
 author: []
 publisher: {}
@@ -34,6 +34,8 @@ I learned this firsthand at VMware, R&D User Experience, the company responsible
 
 Just as the files you use have grown, the quantity of virtual objects to be managed has also grown. VMware some customers were managing upwards of 10,000 virtual objects. Absolute Hubble, as in the Hubble space telescope was a project that explored design patterns for managing such complexity. The intention was to help datacenter administrators quickly understand---and troubleshoot---the relationships between the virtual objects they manage.
 ![Absolute Hubble simplifies troubleshooting workflows by traversing and visualizing the relationships between virtual objects in a datacenter. This interface combines design patterns for managing scale including elastic lists, search, and consolidated nodes. Furthermore, this interface is focused upon monitoring unhealthy trends, which administrators are most concerned with provide the highest level of service to their business. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/caca9843-cc94-4aa7-977e-74bc76505e0e.jpg)
+
+Absolute Hubble simplifies troubleshooting workflows by traversing and visualizing the relationships between virtual objects in a datacenter. This interface combines design patterns for managing scale including elastic lists, search, and consolidated nodes. Furthermore, this interface is focused upon monitoring unhealthy trends, which administrators are most concerned with provide the highest level of service to their business. 
 
 I'm curious to hear about the design challenges you currently face. Reach out below and I'd be happy to schedule a time to chat and learn more.
 [Say hello][0]
