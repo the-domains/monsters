@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-17T05:44:20.338Z'
-datePublished: '2018-04-17T05:44:21.550Z'
+dateModified: '2018-04-17T05:44:21.788Z'
+datePublished: '2018-04-17T05:44:22.504Z'
 title: 'Case Study: Orbit'
 author: []
 publisher: {}
