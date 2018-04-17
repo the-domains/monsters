@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  What to do when your product becomes expensive to run and expensive to turn
-  off. 
-dateModified: '2018-04-17T06:25:55.402Z'
-datePublished: '2018-04-17T06:25:56.216Z'
+  Migrating a 12GB database in flight because your product is too expensive run
+  and too expensive to turn off. 
+dateModified: '2018-04-17T06:27:41.653Z'
+datePublished: '2018-04-17T06:27:42.717Z'
 title: Designing for Cost
 author: []
 publisher: {}
@@ -21,20 +21,19 @@ _type: Article
 
 ## Case Study: Pawn Stars
 
-What to do when your product becomes expensive to run and expensive to turn off. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png)
+Migrating a 12GB database in flight because your product is too expensive run and too expensive to turn off. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png)
 
 ---
 
-Today you can rent out a web server for less than $5 per month. 
-
-TBD
+TBWritten
 
 * Popular game 10k/month to run
 * Redis cluster many many GB
 * Pawnstars, History Channel 
 * Zero downtime or players will be unhappy and sales lost
 * Redis is in memory and to turn it off means to lose all memory 
-* new hardware options at aws cheaper require migration. 
+* Moving many GB is slow
+* transfer to new hardware options (cheaper) at aws with zero downtime
 * Coordinate without failure
 * From complex to easy.
 [Say hello][0]
