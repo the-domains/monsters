@@ -4,9 +4,9 @@
         <description><![CDATA[I ♥ complexity]]></description>
         <link>http://www.bedtimeforbigmonsters.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Apr 2018 06:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Apr 2018 06:28:23 GMT</lastBuildDate>
         <atom:link href="http://www.bedtimeforbigmonsters.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Apr 2018 06:27:50 GMT</pubDate>
+        <pubDate>Tue, 17 Apr 2018 06:28:19 GMT</pubDate>
         <item>
             <title><![CDATA[Designing for Change]]></title>
             <description><![CDATA[<h1>Designing for Change</h1>,<h2>Case Study: Orbit</h2>,<p>Don’t just ship it. How to introduce major UX changes your new and existing customers will love.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f95e390b-d8ca-4432-92ea-ea2fda0ea6f3.gif">]]></description>
@@ -20,6 +20,13 @@
             <link>http://www.bedtimeforbigmonsters.com/designing-for-scale/index.html</link>
             <guid isPermaLink="false">639d4864-adea-4a47-92a4-111cc2a36d50</guid>
             <pubDate>Fri, 13 Apr 2018 20:39:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Designing for Cost]]></title>
+            <description><![CDATA[<h1>Designing for Cost</h1>,<h2>Case Study: Pawn Stars</h2>,<p>Migrating a 12GB database in flight because your product is too expensive run and too expensive to turn off. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png">]]></description>
+            <link>http://www.bedtimeforbigmonsters.com/designing-for-cost/index.html</link>
+            <guid isPermaLink="false">d30554c2-ecec-4f96-a033-996ef8e24183</guid>
+            <pubDate>Tue, 17 Apr 2018 06:19:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Natural Systems by Design, Nourished by Startup Patterns]]></title>
@@ -62,13 +69,6 @@
             <link>http://www.bedtimeforbigmonsters.com/soil-not-oil-from-big-oil-and-monsanto-to-sweet-morning-dew/index.html</link>
             <guid isPermaLink="false">5c3e031f-54f9-44fa-955c-d4dcd261622a</guid>
             <pubDate>Fri, 26 May 2017 17:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Designing for Cost]]></title>
-            <description><![CDATA[<h1>Designing for Cost</h1>,<h2>Case Study: Pawn Stars</h2>,<p>Migrating a 12GB database in flight because your product is too expensive run and too expensive to turn off. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png">]]></description>
-            <link>http://www.bedtimeforbigmonsters.com/designing-for-cost/index.html</link>
-            <guid isPermaLink="false">d30554c2-ecec-4f96-a033-996ef8e24183</guid>
-            <pubDate>Tue, 17 Apr 2018 06:19:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
