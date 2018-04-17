@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Migrating a 12GB database in flight because your product is too expensive run
   and too expensive to turn off. 
-dateModified: '2018-04-17T06:27:49.271Z'
-datePublished: '2018-04-17T06:27:49.965Z'
+dateModified: '2018-04-17T06:28:13.447Z'
+datePublished: '2018-04-17T06:28:13.869Z'
 title: Designing for Cost
 author: []
 publisher: {}
