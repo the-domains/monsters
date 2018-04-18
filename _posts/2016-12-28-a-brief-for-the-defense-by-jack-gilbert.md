@@ -1,13 +1,14 @@
 ---
-title: |
-  Risk Delight
-datePublished: '2018-04-18T03:16:28.141Z'
-dateModified: '2018-04-18T03:10:16.612Z'
+title: Risk Delight
+datePublished: '2018-04-18T03:19:39.916Z'
+dateModified: '2018-04-18T03:19:09.082Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: ''
+description: >-
+  Courage is choosing to enjoy each moment received when there is so much to be
+  up-in-arms about.
 via: {}
 starred: false
 datePublishedOriginal: '2016-12-28T05:18:23.725Z'
@@ -19,7 +20,9 @@ _context: 'http://schema.org'
 ---
 # Risk Delight
 
-## Courage is choosing to enjoy each moment received when there is so much to be up-in-arms about.
+## Attitude adjustment
+
+Courage is choosing to enjoy each moment received when there is so much to be up-in-arms about.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24dfc0d-b7e8-4547-af24-1c0a8c38e86e.jpg)
 
 ---
