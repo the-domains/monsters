@@ -4,8 +4,8 @@ description: >-
   Success doesn’t have to be expensive. Upgrade your tech in the cloud with zero
   downtime  because your product is too expensive to run and also too expensive
   to turn off.
-dateModified: '2018-04-18T02:40:30.762Z'
-datePublished: '2018-04-18T02:40:31.355Z'
+dateModified: '2018-04-18T02:42:44.714Z'
+datePublished: '2018-04-18T02:42:45.275Z'
 title: Designing for Cost
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ Success doesn't have to be expensive. Upgrade your tech in the cloud with zero d
 
 ---
 
-2BWritten
+Success is a mixed bag. When Fifth Column Games design Pawn Stars for has been a popular 
 
 Migrating a 12GB Redis cluster in flight 
 
