@@ -1,26 +1,28 @@
 ---
-title: Risk Delight
-datePublished: '2018-04-17T06:28:13.871Z'
-dateModified: '2018-04-17T06:28:13.447Z'
+title: |
+  Risk Delight
+datePublished: '2018-04-18T03:16:28.141Z'
+dateModified: '2018-04-18T03:10:16.612Z'
 publisher: {}
 author: []
 inFeed: true
-description: '“We Must Risk Delight,” by Jack Gilbert'
-via: {}
 hasPage: true
-sourcePath: _posts/2016-12-28-a-brief-for-the-defense-by-jack-gilbert.md
+description: ''
+via: {}
 starred: false
 datePublishedOriginal: '2016-12-28T05:18:23.725Z'
+sourcePath: _posts/2016-12-28-a-brief-for-the-defense-by-jack-gilbert.md
 url: risk-delight/index.html
 _type: Article
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24dfc0d-b7e8-4547-af24-1c0a8c38e86e.jpg)
-
 # Risk Delight
 
-## With so much to be up-in-arms about, courage is choosing to enjoy each moment received.
+## Courage is choosing to enjoy each moment received when there is so much to be up-in-arms about.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24dfc0d-b7e8-4547-af24-1c0a8c38e86e.jpg)
+
+---
 
 "We Must Risk Delight," by Jack Gilbert
 
