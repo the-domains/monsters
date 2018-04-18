@@ -1,10 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Migrating a 12GB database in flight because your product is too expensive run
-  and too expensive to turn off. 
-dateModified: '2018-04-17T06:28:13.447Z'
-datePublished: '2018-04-17T06:28:13.869Z'
+  Success doesn’t have to be expensive. Upgrade your tech in the cloud with zero
+  downtime  because your product is too expensive to run and also too expensive
+  to turn off.
+dateModified: '2018-04-18T02:40:30.762Z'
+datePublished: '2018-04-18T02:40:31.355Z'
 title: Designing for Cost
 author: []
 publisher: {}
@@ -21,17 +22,20 @@ _type: Article
 
 ## Case Study: Pawn Stars
 
-Migrating a 12GB database in flight because your product is too expensive run and too expensive to turn off. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png)
+Success doesn't have to be expensive. Upgrade your tech in the cloud with zero downtime because your product is too expensive to run and also too expensive to turn off.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png)
 
 ---
 
 2BWritten
 
+Migrating a 12GB Redis cluster in flight 
+
 * Popular game 10k/month to run
 * Redis cluster many many GB
-* Pawnstars, History Channel 
+* Pawnstars, History Channel
 * Zero downtime or players will be unhappy and sales lost
-* Redis is in memory and to turn it off means to lose all memory 
+* Redis is in memory and to turn it off means to lose all memory
 * Moving many GB is slow
 * transfer to new hardware options (cheaper) at aws with zero downtime
 * Coordinate without failure
