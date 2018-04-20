@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Out with the old and in with the new. There’s a simple rule of thumb for
   designing solutions to problems of scale.
-dateModified: '2018-04-17T06:29:56.215Z'
-datePublished: '2018-04-17T06:29:56.845Z'
-title: Designing for Scale
+dateModified: '2018-04-20T01:28:26.241Z'
+datePublished: '2018-04-20T01:28:27.870Z'
+title: Design for Scale
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ url: designing-for-scale/index.html
 _type: Article
 
 ---
-# Designing for Scale
+# Design for Scale
 
 ## Case Study: Absolute Hubble
 
