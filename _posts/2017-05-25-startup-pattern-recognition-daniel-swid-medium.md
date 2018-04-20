@@ -42,9 +42,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://medium.com/@swidnikk/startup-pattern-recognition-968bade9fef1'
-title: 'Natural Systems by Design, Nourished by Startup Patterns'
-datePublished: '2018-04-17T06:28:13.878Z'
-dateModified: '2018-04-17T06:28:13.447Z'
+title: 'Natural Systems, Nourished by Startup Patterns'
+datePublished: '2018-04-20T01:28:50.306Z'
+dateModified: '2018-04-20T01:28:49.466Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-25-startup-pattern-recognition-daniel-swid-medium.md
@@ -54,4 +54,4 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0ad85100ed6ce17883c21b9d8277f10a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*dOcP0PNJhEnMGu9yAvLOKw.jpeg" /><h1>Natural Systems by Design, Nourished by Startup Patterns</h1><p>A mosaic of patterns, design, and natural systems for teams, startups, and inspiration. Late last week, I sat down for a cup of coffee with a mentor and we talked about design, as we often do. It's a wide subject, and the coffee shop was buzzing with conversation and bright with morning light.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0ad85100ed6ce17883c21b9d8277f10a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*dOcP0PNJhEnMGu9yAvLOKw.jpeg" /><h1>Natural Systems, Nourished by Startup Patterns</h1><p>A mosaic of patterns, design, and natural systems for teams, startups, and inspiration. Late last week, I sat down for a cup of coffee with a mentor and we talked about design, as we often do. It's a wide subject, and the coffee shop was buzzing with conversation and bright with morning light.</p></article>
