@@ -1,7 +1,7 @@
 ---
-title: Designing for Cost
-datePublished: '2018-04-18T02:56:59.193Z'
-dateModified: '2018-04-18T02:56:56.416Z'
+title: Design for Savings
+datePublished: '2018-04-20T01:31:17.175Z'
+dateModified: '2018-04-20T01:31:16.147Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,14 +11,14 @@ description: >-
   the cloud with zero downtime because your product is too expensive to run and
   also too expensive to turn off.
 via: {}
+sourcePath: _posts/2018-04-17-designing-for-cost.md
 starred: false
 datePublishedOriginal: '2018-04-17T06:19:32.841Z'
-sourcePath: _posts/2018-04-17-designing-for-cost.md
 url: designing-for-cost/index.html
 _type: Article
 
 ---
-# Designing for Cost
+# Design for Savings
 
 ## Case Study: Pawn Stars
 
@@ -27,7 +27,7 @@ Success doesn't have to be expensive. Upgrade your tech to reduce IT opex in the
 
 ---
 
-When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in app purchases and $10k+ AWS hosting costs. 
+When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in app purchases and $10k+ AWS hosting costs.
 
 Migrating a 12GB Redis cluster in flight
 
