@@ -6,8 +6,8 @@ description: >-
   destiny...For some strange reason I can never be what I ought to be until you
   are what you ought to be. And you can never be what you ought to be until I am
   what I ought to be - this is the interrelated structure of reality.”
-dateModified: '2018-04-28T05:51:08.343Z'
-datePublished: '2018-04-28T05:51:08.916Z'
+dateModified: '2018-04-28T18:29:22.371Z'
+datePublished: '2018-04-28T18:29:22.853Z'
 title: The Interrelated Structure of Reality
 author: []
 publisher: {}
