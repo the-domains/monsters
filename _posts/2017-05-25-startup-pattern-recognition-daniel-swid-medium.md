@@ -43,8 +43,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@swidnikk/startup-pattern-recognition-968bade9fef1'
 title: 'Natural Systems, Nourished by Startup Patterns'
-datePublished: '2018-04-20T01:28:50.306Z'
-dateModified: '2018-04-20T01:28:49.466Z'
+datePublished: '2018-04-28T05:21:57.268Z'
+dateModified: '2018-04-28T05:21:56.545Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-25-startup-pattern-recognition-daniel-swid-medium.md
