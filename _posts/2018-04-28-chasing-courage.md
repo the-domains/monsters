@@ -7,8 +7,8 @@ description: >-
   individuals to fundamentally shift their relationship to such
   monsters—embracing change, relationships, and life, returning to the awakening
   roots of their purpose and native creativity. 
-dateModified: '2018-04-28T18:29:08.603Z'
-datePublished: '2018-04-28T18:29:09.329Z'
+dateModified: '2018-04-28T18:29:22.371Z'
+datePublished: '2018-04-28T18:29:22.888Z'
 title: Riding Courage
 author: []
 publisher: {}
