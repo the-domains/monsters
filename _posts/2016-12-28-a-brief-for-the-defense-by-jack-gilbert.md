@@ -1,7 +1,7 @@
 ---
 title: Risk Delight
-datePublished: '2018-04-28T04:56:31.904Z'
-dateModified: '2018-04-28T04:56:30.527Z'
+datePublished: '2018-04-28T05:04:05.369Z'
+dateModified: '2018-04-28T05:04:04.399Z'
 publisher: {}
 author: []
 inFeed: true
@@ -26,7 +26,7 @@ Courage is choosing to enjoy each moment received when there is so much to be up
 
 ---
 
-When I took a sabbatical several years ago, the dark skinned grapes of late summer spoke out loud and light gold set fire to the fading afternoon. The grapes spoke of darkness and depth, places only slow twists of roots can know. It was at this time, that I found myself in a new personal orientation to a land and community I had completely overlooked in my rush to some place else each morning. 
+When I took a sabbatical several years ago, the dark skinned grapes of late summer spoke out loud and light gold set fire to the fading afternoon. The grapes spoke of darkness and depth, places only slow twisting roots can know of. It was at this time, that I found myself in a new personal orientation to a land and community I had not listened to in my rush to some place else each morning. With hands and feet rooted to land and place day after day, the earth accepted and I relinquished all sorrow in return for tenfold smiles. Jack Gilbert writes, 
 
 ## A Brief for the Defense
 
