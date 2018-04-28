@@ -1,10 +1,10 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T18:32:18.686Z'
-dateModified: '2018-04-28T18:32:17.961Z'
+datePublished: '2018-04-28T18:34:57.000Z'
+dateModified: '2018-04-28T18:34:56.514Z'
 publisher: {}
 author: []
-inFeed: false
+inFeed: true
 hasPage: true
 description: >-
   Success doesn’t have to be expensive. Upgrade your tech and reduce IT opex in
@@ -15,7 +15,7 @@ sourcePath: _posts/2018-04-17-designing-for-cost.md
 starred: false
 datePublishedOriginal: '2018-04-28T05:28:25.640Z'
 url: design-for-savings/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Design for Compute
