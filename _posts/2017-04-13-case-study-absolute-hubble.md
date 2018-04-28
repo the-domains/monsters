@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Out with the old and in with the new. There’s a simple rule of thumb for
   designing solutions to problems of scale.
-dateModified: '2018-04-28T18:29:22.371Z'
-datePublished: '2018-04-28T18:29:22.873Z'
+dateModified: '2018-04-28T18:32:03.198Z'
+datePublished: '2018-04-28T18:32:03.784Z'
 title: Design for Scale
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-13T20:39:20.064Z'
 url: designing-for-scale/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Design for Scale
@@ -28,7 +28,7 @@ Out with the old and in with the new. There's a simple rule of thumb for designi
 
 Think about a file system. When there are say 1 to 10 files, large thumbnails give you rapid access. With up to 1000, a list is much more appropriate. Above 10,000, search starts to become much more viable important. As numbers are upwards of a million or a billion, AI becomes increasingly relevant.
 
-How can you anticipate when to apply a different solution for the number of objects in your system? 
+How can you anticipate when to apply a different solution for the number of objects in your system?
 
 ### A simple rule of thumb is that for every order of magnitude, there is a different appropriate design solution.
 
