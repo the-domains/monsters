@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Design and complexity is a beautiful thing. '
-dateModified: '2018-04-28T18:45:40.782Z'
-datePublished: '2018-04-28T18:45:41.988Z'
+description: ''
+dateModified: '2018-04-28T18:53:09.083Z'
+datePublished: '2018-04-28T18:53:09.705Z'
 title: Case Studies in Design
 author: []
 publisher: {}
@@ -16,13 +16,12 @@ _type: Article
 
 ---
 # Case Studies in Design
-
-Design and complexity is a beautiful thing. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9253303-fd84-42ef-bd8b-979865ce1d19.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9253303-fd84-42ef-bd8b-979865ce1d19.jpg)
 
 ---
 
-<article style=""><h1>Design for Change</h1><p>Snapchat is a social app. If you were redesigning the administrative interface responsible for managing public and private clouds that hospitals, governments, and entire data centers depend upon for mission critical applications, a company just might think or design a little more carefully. I'm sure the designers at Snapchat worked pretty hard to roll out their redesign.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb4b0b645b110f5ac0a8d4290f2c4eb952c2aebb.jpg" /><h1>Design for Scale</h1><p>Out with the old and in with the new. There’s a simple rule of thumb for designing solutions to problems of scale.</p></article>
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb4b0b645b110f5ac0a8d4290f2c4eb952c2aebb.jpg" /><h1>Design for Scale</h1><p>Absolute Hubble simplifies troubleshooting workflows by traversing and visualizing the relationships between virtual objects in a datacenter. This interface combines design patterns for managing scale including elastic lists, search, and aggregate nodes. Furthermore, this interface is focused upon monitoring unhealthy trends, as opposed to health, which is what administrators are most concerned to provide the highest level of service to their business.</p></article>
+<article style=""><h1>Design for Change</h1><p>Don’t just ship it. How to introduce major UX changes your new and existing customers will love</p></article>
 
 <article style=""><h1>Design for Compute</h1><p>When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in-app purchases and $10k+ AWS hosting costs.</p></article>
