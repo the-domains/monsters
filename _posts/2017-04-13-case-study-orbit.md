@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Don’t just ship it. How to introduce major UX changes your new and existing
   customers will love.
-dateModified: '2018-04-28T05:38:14.297Z'
-datePublished: '2018-04-28T05:38:15.227Z'
+dateModified: '2018-04-28T05:51:08.343Z'
+datePublished: '2018-04-28T05:51:08.917Z'
 title: Design for Change
 author: []
 publisher: {}
