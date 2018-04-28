@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Summaries at the intersection of design and complexity. '
-dateModified: '2018-04-28T18:45:28.206Z'
-datePublished: '2018-04-28T18:45:29.190Z'
+description: 'Design and complexity is a beautiful thing. '
+dateModified: '2018-04-28T18:45:40.782Z'
+datePublished: '2018-04-28T18:45:41.988Z'
 title: Case Studies in Design
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # Case Studies in Design
 
-Summaries at the intersection of design and complexity. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9253303-fd84-42ef-bd8b-979865ce1d19.jpg)
+Design and complexity is a beautiful thing. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9253303-fd84-42ef-bd8b-979865ce1d19.jpg)
 
 ---
 
