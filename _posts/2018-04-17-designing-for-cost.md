@@ -1,15 +1,14 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T18:34:57.000Z'
-dateModified: '2018-04-28T18:34:56.514Z'
+datePublished: '2018-04-28T18:36:13.519Z'
+dateModified: '2018-04-28T18:36:12.903Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: >-
-  Success doesn’t have to be expensive. Upgrade your tech and reduce IT opex in
-  the cloud with zero downtime because your product is too expensive to run and
-  also too expensive to turn off.
+  Success can be expensive. What happens when IT operating expenses are too
+  expensive to run yet too expensive to turn off.
 via: {}
 sourcePath: _posts/2018-04-17-designing-for-cost.md
 starred: false
@@ -22,7 +21,7 @@ _type: Article
 
 ## Case Study: Pawn Stars
 
-Success doesn't have to be expensive. Upgrade your tech and reduce IT opex in the cloud with zero downtime because your product is too expensive to run and also too expensive to turn off.
+Success can be expensive. What happens when IT operating expenses are too expensive to run yet too expensive to turn off.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png)
 
 ---
