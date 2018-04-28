@@ -1,7 +1,7 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T18:38:36.522Z'
-dateModified: '2018-04-28T18:38:35.848Z'
+datePublished: '2018-04-28T18:41:49.519Z'
+dateModified: '2018-04-28T18:41:49.167Z'
 publisher: {}
 author: []
 inFeed: false
