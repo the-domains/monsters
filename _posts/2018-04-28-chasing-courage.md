@@ -7,16 +7,16 @@ description: >-
   strategy, fundraising, or just trying not to drown from overwhelm. Through
   personal and professional explorations I’ve learned shift my relationship to
   such challenges.
-dateModified: '2018-04-28T05:37:58.786Z'
-datePublished: '2018-04-28T05:38:00.134Z'
+dateModified: '2018-04-28T05:38:14.297Z'
+datePublished: '2018-04-28T05:38:15.232Z'
 title: Chasing Courage
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-04-28-chasing-courage.md
 starred: false
 datePublishedOriginal: '2018-04-28T05:38:00.134Z'
-sourcePath: _posts/2018-04-28-chasing-courage.md
 url: chasing-courage/index.html
 _type: Article
 
