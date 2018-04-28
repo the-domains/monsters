@@ -1,7 +1,7 @@
 ---
-title: Design for Savings
-datePublished: '2018-04-28T05:28:25.640Z'
-dateModified: '2018-04-28T05:28:25.100Z'
+title: Design for Compute
+datePublished: '2018-04-28T05:28:49.931Z'
+dateModified: '2018-04-28T05:28:49.191Z'
 publisher: {}
 author: []
 inFeed: true
@@ -18,7 +18,7 @@ url: design-for-savings/index.html
 _type: Article
 
 ---
-# Design for Savings
+# Design for Compute
 
 ## Case Study: Pawn Stars
 
