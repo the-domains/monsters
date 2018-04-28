@@ -7,8 +7,8 @@ description: >-
   applications, a company just might think or design a little more carefully.
   I'm sure the designers at Snapchat worked pretty hard to roll out their
   redesign.
-dateModified: '2018-04-28T18:37:59.367Z'
-datePublished: '2018-04-28T18:38:00.048Z'
+dateModified: '2018-04-28T18:41:49.167Z'
+datePublished: '2018-04-28T18:41:49.476Z'
 title: Case Studies in Design
 author: []
 publisher:
@@ -18,9 +18,9 @@ publisher:
   domain: www.bedtimeforbigmonsters.com
 via: {}
 isBasedOnUrl: 'http://www.bedtimeforbigmonsters.com/case-study-orbit/'
+sourcePath: _posts/2018-04-28-case-studies-in-design.md
 starred: false
 datePublishedOriginal: '2018-04-28T18:38:00.048Z'
-sourcePath: _posts/2018-04-28-case-studies-in-design.md
 _type: MediaObject
 
 ---
