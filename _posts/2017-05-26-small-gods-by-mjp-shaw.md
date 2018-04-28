@@ -14,7 +14,9 @@ keywords:
   - tracks
   - music
   - soundcloud
-description: ''
+description: >-
+  The old tales, the fairy, the folk tales, the myth, contain much of the
+  paradox we face in these storm driven times. – Dr. Martin Shaw
 app_links:
   - type: ios
     namespace: ai
@@ -53,8 +55,8 @@ app_links:
     namespace: google
     type: ios
 title: Wild Land Dreaming
-datePublished: '2018-04-28T05:38:15.207Z'
-dateModified: '2018-04-28T05:38:14.297Z'
+datePublished: '2018-04-28T05:40:07.902Z'
+dateModified: '2018-04-28T05:40:06.810Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-26-small-gods-by-mjp-shaw.md
@@ -66,11 +68,12 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134b8526-2130-4ef9-b8c1-043bfa03a2d1.jpg)
-
 # Wild Land Dreaming
 
-## The old tales, the fairy, the folk tales, the myth, contain much of the paradox we face in these storm driven times. -- Dr. Martin Shaw
+## Storm driven times 
+
+The old tales, the fairy, the folk tales, the myth, contain much of the paradox we face in these storm driven times. -- Dr. Martin Shaw
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134b8526-2130-4ef9-b8c1-043bfa03a2d1.jpg)
 
 ---
 
