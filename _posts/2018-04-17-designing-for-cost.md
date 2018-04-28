@@ -1,7 +1,7 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T05:31:28.041Z'
-dateModified: '2018-04-28T05:31:27.133Z'
+datePublished: '2018-04-28T05:31:43.928Z'
+dateModified: '2018-04-28T05:31:43.137Z'
 publisher: {}
 author: []
 inFeed: true
@@ -29,7 +29,7 @@ Success doesn't have to be expensive. Upgrade your tech and reduce IT opex in th
 
 When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in-app purchases and $10k+ AWS hosting costs.
 
-Migrating a 12GB Redis cluster in flight with 0 down time? Festina lente 
+Migrating a 12GB Redis cluster in flight with 0 down time? Festina lente. 
 
 * Popular game 10k/month to run
 * Redis cluster many many GB
