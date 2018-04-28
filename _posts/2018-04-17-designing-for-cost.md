@@ -1,10 +1,10 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T18:29:22.925Z'
-dateModified: '2018-04-28T18:29:22.371Z'
+datePublished: '2018-04-28T18:32:18.686Z'
+dateModified: '2018-04-28T18:32:17.961Z'
 publisher: {}
 author: []
-inFeed: true
+inFeed: false
 hasPage: true
 description: >-
   Success doesn’t have to be expensive. Upgrade your tech and reduce IT opex in
@@ -15,7 +15,7 @@ sourcePath: _posts/2018-04-17-designing-for-cost.md
 starred: false
 datePublishedOriginal: '2018-04-28T05:28:25.640Z'
 url: design-for-savings/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Design for Compute
@@ -29,7 +29,7 @@ Success doesn't have to be expensive. Upgrade your tech and reduce IT opex in th
 
 When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in-app purchases and $10k+ AWS hosting costs.
 
-Migrating a 12GB Redis cluster in flight with 0 down time? Festina lente. 
+Migrating a 12GB Redis cluster in flight with 0 down time? Festina lente.
 
 * Popular game 10k/month to run
 * Redis cluster many many GB
