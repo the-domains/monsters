@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Excerpt from “What We Think About When We Try Not to Think About Global
   Warming”, by Per Espen Stoknes.
-dateModified: '2018-04-28T05:38:14.297Z'
-datePublished: '2018-04-28T05:38:15.227Z'
+dateModified: '2018-04-28T05:51:08.343Z'
+datePublished: '2018-04-28T05:51:08.912Z'
 title: A Matter of Style
 author: []
 publisher: {}
