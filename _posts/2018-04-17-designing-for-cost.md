@@ -1,10 +1,10 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T18:36:13.519Z'
-dateModified: '2018-04-28T18:36:12.903Z'
+datePublished: '2018-04-28T18:38:36.522Z'
+dateModified: '2018-04-28T18:38:35.848Z'
 publisher: {}
 author: []
-inFeed: true
+inFeed: false
 hasPage: true
 description: >-
   Success can be expensive. What happens when IT operating expenses are too
@@ -14,7 +14,7 @@ sourcePath: _posts/2018-04-17-designing-for-cost.md
 starred: false
 datePublishedOriginal: '2018-04-28T05:28:25.640Z'
 url: design-for-savings/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Design for Compute
