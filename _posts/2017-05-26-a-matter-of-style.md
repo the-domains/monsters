@@ -1,10 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Excerpt from “What We Think About When We Try Not to Think About Global
-  Warming”, by Per Espen Stoknes.
-dateModified: '2018-04-28T18:41:49.167Z'
-datePublished: '2018-04-28T18:41:49.460Z'
+  Gary Snyder, the poet was once was asked, “Why bother to save the planet?” he
+  replied with a grin “Because it’s a matter of character and a matter of
+  style!”
+dateModified: '2018-04-28T18:42:25.181Z'
+datePublished: '2018-04-28T18:42:25.978Z'
 title: A Matter of Style
 author: []
 publisher: {}
@@ -21,14 +22,14 @@ _type: Article
 
 # A Matter of Style
 
-## For the love of life: Reflections and conclusions about global warming, grounded in culture and the arts. 
-
-_Excerpt from "What We Think About When We Try Not to Think About Global Warming", by Per Espen Stoknes._
+## For the love of life: Reflections and conclusions about global warming, grounded in culture and the arts.
 
 Gary Snyder, the poet was once was asked, "Why bother to save the planet?" he replied with a grin "Because it's a matter of character and a matter of style!"
 
 ---
 
-"What I really like about his answer is that it does not attempt to found our actions on some plausibility calculation of success or failure, or on a dualistic ethics---the good fight against evil. Rather Snyder points to our calling and to aesthetics, both realms of the soul, of being who we are. This grounds our long-term actions in something more substantial than the expectations of a quick and successful outcome of our efforts. For sure, early wins and successes are welcome and wanted. We just can't make our long-term efforts dependent on them." --Per Espen Stoknes
+"What I really like about his answer is that it does not attempt to found our actions on some plausibility calculation of success or failure, or on a dualistic ethics---the good fight against evil. Rather Snyder points to our calling and to aesthetics, both realms of the soul, of being who we are. This grounds our long-term actions in something more substantial than the expectations of a quick and successful outcome of our efforts. For sure, early wins and successes are welcome and wanted. We just can't make our long-term efforts dependent on them." 
+
+_Excerpt from "What We Think About When We Try Not to Think About Global Warming", by Per Espen Stoknes._
 
 <article style=""><img src="http://www.chelseagreen.com/content/01/19901" /><h1>Read the book </h1><p>The more facts that pile up about global warming, the greater the resistance to them grows, making it harder to enact measures to reduce greenhouse gas emissions and prepare communities for the inevitable change ahead.</p></article>
