@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Out with the old and in with the new. There’s a simple rule of thumb for
   designing solutions to problems of scale.
-dateModified: '2018-04-23T22:06:02.103Z'
-datePublished: '2018-04-23T22:06:02.942Z'
+dateModified: '2018-04-28T05:21:56.545Z'
+datePublished: '2018-04-28T05:21:57.365Z'
 title: Design for Scale
 author: []
 publisher: {}
