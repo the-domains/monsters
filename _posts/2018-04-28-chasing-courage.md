@@ -7,8 +7,8 @@ description: >-
   strategy, fundraising, or just trying not to drown from overwhelm. Through
   personal and professional explorations I’ve learned to fundamentally shift my
   relationship.
-dateModified: '2018-04-28T05:51:04.895Z'
-datePublished: '2018-04-28T05:51:05.663Z'
+dateModified: '2018-04-28T05:51:08.343Z'
+datePublished: '2018-04-28T05:51:08.875Z'
 title: Riding Courage
 author: []
 publisher: {}
