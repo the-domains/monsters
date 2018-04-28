@@ -1,13 +1,14 @@
 ---
 inFeed: true
 description: >-
-  Some challenges are so big, they keep you up at night, threatening to drag you
-  out to sea like a rogue wave. These monsters could be engineering cadence,
-  growth strategy, fundraising, or just trying not to drown from overwhelm.
-  Through personal and professional explorations I’ve learned to fundamentally
-  shift my relationship.
-dateModified: '2018-04-28T18:20:49.371Z'
-datePublished: '2018-04-28T18:20:50.279Z'
+  Some challenges are so big, they keep you up at night. These monsters are
+  different for everyone and they evoke reactions that are often rooted in fear,
+  anger, competition, and helplessness. I help teams, organizations, and
+  individuals to fundamentally shift their relationship to such
+  monsters—embracing change, relationships, and life, returning to the awakening
+  roots of their purpose and native creativity. 
+dateModified: '2018-04-28T18:29:08.603Z'
+datePublished: '2018-04-28T18:29:09.329Z'
 title: Riding Courage
 author: []
 publisher: {}
@@ -24,8 +25,7 @@ _type: Article
 
 ## Monsters lie waiting, like rogue waves threatening to drag you out to sea.
 
-Some challenges are so big, they keep you up at night, threatening to drag you out to sea like a rogue wave. These monsters could be engineering cadence, growth strategy, fundraising, or just trying not to drown from overwhelm. Through personal and professional explorations I've learned to fundamentally shift my relationship.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e1810cc-644e-4d22-b00e-b1913258758c.jpg)
+Some challenges are so big, they keep you up at night. These monsters are different for everyone and they evoke reactions that are often rooted in fear, anger, competition, and helplessness. I help teams, organizations, and individuals to fundamentally shift their relationship to such monsters---embracing change, relationships, and life, returning to the awakening roots of their purpose and native creativity. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e1810cc-644e-4d22-b00e-b1913258758c.jpg)
 
 ---
 
