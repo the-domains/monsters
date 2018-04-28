@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   "To be truly radical is to make hope possible, rather than despair
   convincing." – Raymond Williams
-dateModified: '2018-04-28T05:21:56.545Z'
-datePublished: '2018-04-28T05:21:57.324Z'
+dateModified: '2018-04-28T05:38:14.297Z'
+datePublished: '2018-04-28T05:38:15.237Z'
 title: ''
 author: []
 publisher: {}
