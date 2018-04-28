@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Don’t just ship it. How to introduce major UX changes your new and existing
   customers will love.
-dateModified: '2018-04-28T18:34:39.413Z'
-datePublished: '2018-04-28T18:34:39.993Z'
+dateModified: '2018-04-28T18:38:12.941Z'
+datePublished: '2018-04-28T18:38:13.767Z'
 title: Design for Change
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-13T20:39:25.845Z'
 url: case-study-orbit/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Design for Change
