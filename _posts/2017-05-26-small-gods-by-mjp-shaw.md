@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: ios
 title: Wild Land Dreaming
-datePublished: '2018-04-28T05:22:33.093Z'
-dateModified: '2018-04-28T05:22:32.103Z'
+datePublished: '2018-04-28T05:38:15.207Z'
+dateModified: '2018-04-28T05:38:14.297Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-26-small-gods-by-mjp-shaw.md
