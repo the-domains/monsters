@@ -1,13 +1,13 @@
 ---
 title: Design for Compute
-datePublished: '2018-04-28T05:28:49.931Z'
-dateModified: '2018-04-28T05:28:49.191Z'
+datePublished: '2018-04-28T05:31:28.041Z'
+dateModified: '2018-04-28T05:31:27.133Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: >-
-  Success doesn’t have to be expensive. Upgrade your tech to reduce IT opex in
+  Success doesn’t have to be expensive. Upgrade your tech and reduce IT opex in
   the cloud with zero downtime because your product is too expensive to run and
   also too expensive to turn off.
 via: {}
@@ -22,14 +22,14 @@ _type: Article
 
 ## Case Study: Pawn Stars
 
-Success doesn't have to be expensive. Upgrade your tech to reduce IT opex in the cloud with zero downtime because your product is too expensive to run and also too expensive to turn off.
+Success doesn't have to be expensive. Upgrade your tech and reduce IT opex in the cloud with zero downtime because your product is too expensive to run and also too expensive to turn off.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdf6f83-1992-4a5f-9fb8-d0b338b938f0.png)
 
 ---
 
-When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in app purchases and $10k+ AWS hosting costs.
+When Fifth Column Games launched Pawn Stars, a companion game for the popular History Channel reality show, the success of their game led to millions of users with 24/7 in-app purchases and $10k+ AWS hosting costs.
 
-Migrating a 12GB Redis cluster in flight
+Migrating a 12GB Redis cluster in flight with 0 down time? Festina lente 
 
 * Popular game 10k/month to run
 * Redis cluster many many GB
