@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'If you do not change direction, you may end up where you are headed. -Lao Tzu'
-dateModified: '2018-05-15T19:36:24.193Z'
-datePublished: '2018-05-15T19:36:25.773Z'
+dateModified: '2018-05-15T19:39:08.460Z'
+datePublished: '2018-05-15T19:39:08.850Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2018-05-15T19:36:25.773Z'
 sourcePath: >-
   _posts/2018-05-15-if-you-do-not-change-direction-you-may-end-up-where-you-are.md
+starred: false
+datePublishedOriginal: '2018-05-15T19:36:25.773Z'
 _type: Blurb
 
 ---
