@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-28T18:54:03.374Z'
-datePublished: '2018-04-28T18:54:03.946Z'
+dateModified: '2018-05-15T19:39:26.885Z'
+datePublished: '2018-05-15T19:39:27.246Z'
 title: Case Studies in Design
 author: []
 publisher: {}
