@@ -4,8 +4,8 @@ description: >-
   Gary Snyder, the poet was once was asked, “Why bother to save the planet?” he
   replied with a grin “Because it’s a matter of character and a matter of
   style!”
-dateModified: '2018-04-28T18:42:25.181Z'
-datePublished: '2018-04-28T18:42:25.978Z'
+dateModified: '2018-05-15T19:39:08.460Z'
+datePublished: '2018-05-15T19:39:08.848Z'
 title: A Matter of Style
 author: []
 publisher: {}
